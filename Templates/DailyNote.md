@@ -1,0 +1,5 @@
+---
+tags:
+  - daily-note
+aliases:
+---
