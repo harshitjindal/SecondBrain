@@ -1,5 +1,5 @@
 
-## 20012 -- Computer and information systems managers
+## 20012: Computer and information systems managers
 
 - [ ] Plan, organize, direct, control and evaluate the operations of information systems and electronic data processing (EDP) departments and companies
 - [ ] Develop and implement policies and procedures for electronic data processing and computer systems development and operations
