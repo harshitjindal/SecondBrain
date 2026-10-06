@@ -136,6 +136,12 @@
     - $D < 0$: **no real roots** (the parabola does not cross the $x$-axis)
 - **Sum and product of roots** (Vieta): $x_1 + x_2 = -\frac{b}{a}$ and $x_1 x_2 = \frac{c}{a}$
 - **Vertex of $y = ax^2 + bx + c$**: at $x = -\frac{b}{2a}$. Opens upward if $a > 0$ (minimum), downward if $a < 0$ (maximum).
+- Solving Quadratic Equations:
+	- Use Quadratic Formula
+	- Use Factoring: 
+		- Get equation in the form of $a \cdot x^2+b \cdot y+c=0$
+		- Find 2 numbers such that their product is $a \cdot c$ and sum is $b$.
+		- Break down the $b \cdot y$ term according to the 2 numbers found above.
 
 ### Systems of Equations
 
