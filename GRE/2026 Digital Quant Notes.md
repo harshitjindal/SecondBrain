@@ -4,16 +4,6 @@
 
 ---
 
-# Definitions & Terminology
-
-- **Rational vs. Irrational Numbers**: Rational numbers ($c/d$) can be represented as terminating or repeating decimals, whereas irrational numbers cannot.
-- **Like Terms**: Terms with identical variables and corresponding exponents (e.g., $5z^2$ and $-z^2$)
-- **Degree of a Term & Polynomial**:
-    - **Term Degree**: Sum of the exponents of all variables in that term (e.g., degree of $5xy^2$ is $1 + 2 = 3$)
-    - **Polynomial Degree**: The maximum degree among its terms (e.g., degree of $4x^2 + 7x^5y - 62$ is $6$)
-
----
-
 # Arithmetic & Real Numbers
 
 ### Integers & Real Numbers
@@ -27,9 +17,6 @@
     - If $r > 1$, then $r^2 > r$
     - If $0 < s < 1$, then $s^2 < s$
 
-
-
-
 ### Exponents & Radicals Properties
 
 - **Square Root of Square**: $(\sqrt{a})^2 = a$ for $a \ge 0$, and $\sqrt{a^2} = |a|$
@@ -38,7 +25,15 @@
 
 ---
 
-# Algebra & Functions
+# Algebra, Functions, and more...
+
+### Definitions & Terminology
+
+- **Rational vs. Irrational Numbers**: Rational numbers ($c/d$) can be represented as terminating or repeating decimals, whereas irrational numbers cannot.
+- **Like Terms**: Terms with identical variables and corresponding exponents (e.g., $5z^2$ and $-z^2$)
+- **Degree of a Term & Polynomial**:
+    - **Term Degree**: Sum of the exponents of all variables in that term (e.g., degree of $5xy^2$ is $1 + 2 = 3$)
+    - **Polynomial Degree**: The maximum degree among its terms (e.g., degree of $4x^2 + 7x^5y - 62$ is $6$)
 
 ### Key Algebraic Identities
 
@@ -60,10 +55,29 @@
 - **Power of a Quotient**: $\left(\frac{x}{y}\right)^a = \frac{x^a}{y^a}$
 - **Power of a Power**: $(x^a)^b = x^{ab}$
 
+### Quadratic Equations & Discriminant
+
+- **Quadratic Formula**: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ for $ax^2 + bx + c = 0$
+- **Discriminant (**$D = b^2 - 4ac$**)**:
+    - $D > 0$: 2 real roots
+    - $D = 0$: 1 real root
+    - $D < 0$: 2 imaginary roots
+
 ### Function Transformations
 
 - **Vertical Stretch**: $y = c \cdot h(x)$ stretches the graph vertically by a factor of $c$ if $c > 1$
 - **Vertical Shrink**: $y = c \cdot h(x)$ shrinks the graph vertically by a factor of $c$ if $0 < c < 1$
+
+### Interest & Compounding Formulas
+
+- **Annual Compound Interest**: $A = P\left(1 + \frac{r}{100}\right)^t$
+- **Quarterly / Periodic Compounding**: $A = P\left(1 + \frac{r}{n \cdot 100}\right)^{nt}$ (for quarterly compounding with $n=4$, reduce rate from $r$ to $\frac{r}{n}$ and increase time from $t$ to $n \cdot t$)
+
+### Word Problem Shortcuts & Notes
+
+- **Combined Work Rates**: Work rates ($\text{batches}/\text{hr}$) can be added directly. Sum the rates and take the reciprocal to find combined time per batch (e.g., Machine A: 3 hrs/batch, Machine B: 2 hrs/batch $\implies \frac{1}{3} + \frac{1}{2} = \frac{5}{6}$ batch/hr $\implies \frac{6}{5}$ hrs/batch)1.
+- **Mixture Problem Basis**: Total mixture weight equals the sum of its individual components (e.g., a 12g mixture of vinegar and oil has a total mass of 12g)1.
+
 
 ---
 
@@ -89,6 +103,18 @@
 - **Area of a Trapezoid**: $A = \frac{1}{2}(b_1 + b_2)h$
 - **Right Circular Cylinder Volume**: $V = \pi r^2 h$
 - **Right Circular Cylinder Surface Area**: $A = 2\pi r^2 + 2\pi r h$
+
+### Coordinate Geometry & Parabolas
+
+- **Perpendicular Line Slopes**: Product of slopes $m_1 \cdot m_2 = -1$
+- **Reflection across Line** $y = x$: Interchange $x$ and $y$
+- **Circle Equation**: Center $(x', y')$ with radius $r$ is $(x - x')^2 + (y - y')^2 = r^2$
+- **Horizontal Parabolas**: $x = ay^2 + by + c$ (opens right if $a > 0$, opens left if $a < 0$)
+- **Half-Parabolas**:
+    - Upward: $\sqrt{y} = x$
+    - Downward: $\sqrt{y} = -x$
+    - Right-opening: $\sqrt{x} = y$
+    - Left-opening: $\sqrt{x} = -y$
 
 ---
 
