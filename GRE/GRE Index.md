@@ -42,6 +42,8 @@ ETS categorizes the syllabus into four primary domains. Based on test trends, pr
 - Arithmetic: Properties of integers (divisibility, prime numbers, factorization, odd/even, remainders), absolute value, ratios, percentages, and number lines.  
 - Geometry: Properties of triangles (especially 30-60-90 and isosceles), circles, quadrilaterals, polygons, and 3D volume/surface area. (Note: No formal proofs or trigonometry are tested).
 
+### Notes: 
+
 ---
 
 # AWA
