@@ -167,8 +167,7 @@
 
 ### Normal Distribution & Standardization
 
-- **Standardization (**$z$**-score)**: To transform a normal distribution with mean $m$ and standard deviation $d$ to a standard normal distribution ($\mu = 0, \sigma = 1$), compute: $$z = \frac{x - m}{d}$$
-
+- **Standardization (**$z$**-score)**: To transform a normal distribution with mean $m$ and standard deviation $d$ to a standard normal distribution ($\mu = 0, \sigma = 1$), compute: $z = \frac{x - m}{d}$, where $x$ is the raw data value.
 ### Descriptive Statistics (Additional)
 - **Quartiles & IQR**: 
   - **Median ($Q2$)**: Divides the ordered data into two halves.
