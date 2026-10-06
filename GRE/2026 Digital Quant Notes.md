@@ -17,6 +17,21 @@
     - If $r > 1$, then $r^2 > r$
     - If $0 < s < 1$, then $s^2 < s$
 
+### Properties of Integers
+- **Even/Odd Addition**: 
+  - $\text{Even} + \text{Even} = \text{Even}$
+  - $\text{Odd} + \text{Odd} = \text{Even}$
+  - $\text{Even} + \text{Odd} = \text{Odd}$
+- **Even/Odd Multiplication**: 
+  - $\text{Even} \times \text{Even} = \text{Even}$
+  - $\text{Odd} \times \text{Odd} = \text{Odd}$
+  - $\text{Even} \times \text{Odd} = \text{Even}$
+- **Quotient and Remainder**: $c = qd + r$ (where $0 \le r < d$)
+
+### Percents
+- **Percent Change**: $\frac{\text{Amount of Change}}{\text{Base (Initial Amount)}} \times 100\%$ 
+*(Note: When calculating percent decrease, the base is the larger initial number; for percent increase, the base is the smaller initial number).*
+
 ### Exponents & Radicals Properties
 
 - **Square Root of Square**: $(\sqrt{a})^2 = a$ for $a \ge 0$, and $\sqrt{a^2} = |a|$
@@ -43,6 +58,9 @@
 - **Difference of Squares**: $a^2 - b^2 = (a + b)(a - b)$
 - **Cube of a Sum**: $(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$
 - **Cube of a Difference**: $(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$
+
+### Linear Inequalities
+- **Sign Reversal**: When multiplying or dividing both sides of an inequality by a negative number, you **MUST** reverse the direction of the inequality sign.
 
 ### Rules of Exponents
 
@@ -97,6 +115,17 @@
 - **Pythagorean Theorem**: $a^2 + b^2 = c^2$ for right triangles
 - $45^\circ-45^\circ-90^\circ$ **Triangle Ratio**: Side ratio is $1 : 1 : \sqrt{2}$
 - $30^\circ-60^\circ-90^\circ$ **Triangle Ratio**: Side ratio is $1 : \sqrt{3} : 2$
+- **Triangle Inequality Theorem**: The length of any side of a triangle must be strictly less than the sum of the lengths of the other two sides, and strictly greater than their positive difference.
+
+### Circles
+- **Circumference**: $C = 2\pi r$ or $C = \pi d$
+- **Area**: $A = \pi r^2$
+- **Arc Length**: $\frac{\text{Central Angle}}{360^\circ} \times 2\pi r$
+- **Sector Area**: $\frac{\text{Central Angle}}{360^\circ} \times \pi r^2$
+
+### 3D Figures (Additional)
+- **Rectangular Solid Volume**: $V = \ell w h$
+- **Rectangular Solid Surface Area**: $A = 2(\ell w + \ell h + wh)$
 
 ### Quadrilaterals & 3D Geometry
 
@@ -136,3 +165,23 @@
 ### Normal Distribution & Standardization
 
 - **Standardization (**$z$**-score)**: To transform a normal distribution with mean $m$ and standard deviation $d$ to a standard normal distribution ($\mu = 0, \sigma = 1$), compute: $$z = \frac{x - m}{d}$$
+
+### Descriptive Statistics (Additional)
+- **Quartiles & IQR**: 
+  - **Median ($Q2$)**: Divides the ordered data into two halves.
+  - **$Q1$**: Median of the first half of the data.
+  - **$Q3$**: Median of the second half of the data.
+  - **Interquartile Range (IQR)**: $Q3 - Q1$ (measures the spread of the middle 50% of the data).
+- **Normal Distribution Empirical Estimates**: 
+  - Approx. $\frac{2}{3}$ (~68%) of data lies within $1$ standard deviation of the mean.
+  - Almost all (~95%) data lies within $2$ standard deviations of the mean.
+
+### Counting & Combinations
+- **Combinations (Order does NOT matter)**: The number of ways to choose $k$ objects from $n$ objects is $nC_k = \frac{n!}{k!(n-k)!}$
+
+### Probability Rules
+- **Mutually Exclusive Events** (Cannot happen at the same time): 
+  - $P(E \text{ or } F) = P(E) + P(F)$
+  - $P(E \text{ and } F) = 0$
+- **Independent Events** (One does not affect the other): 
+  - $P(E \text{ and } F) = P(E) \times P(F)$
