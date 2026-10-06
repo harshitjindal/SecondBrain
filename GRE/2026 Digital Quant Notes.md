@@ -191,3 +191,6 @@
   - $P(E \text{ and } F) = 0$
 - **Independent Events** (One does not affect the other): 
   - $P(E \text{ and } F) = P(E) \times P(F)$
+
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
