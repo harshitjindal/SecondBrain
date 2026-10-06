@@ -222,7 +222,8 @@
 
 ### Counting & Combinations
 
-- **Combinations (Order does NOT matter)**: The number of ways to choose $k$ objects from $n$ objects is $nC_k = \frac{n!}{k!(n-k)!}$
+- **Permutations (Order matters)**: The number of ways to arrange $k$ objects from $n$ objects is $nP_k = \frac{n!}{(n-k)!}$
+- **Combinations (Order does NOT matter)**: The number of ways to choose $k$ objects from $n$ objects is $nC_k = \frac{n!}{(n-k)! \cdot k!}$
 
 ### Probability Rules
 
