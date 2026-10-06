@@ -68,5 +68,6 @@ ETS categorizes the syllabus into four primary domains. Based on test trends, pr
 	1. Verbal
 	2. Quant: [GRE Math Review PDF](/GRE/gre-math-review.pdf)
 	3. AWA
-	4. Mock Tests
+	4. Mock Tests: 2 Free Official Powerprep Tests
+4. E2 GRE: https://www.youtube.com/@E2GRE
 
