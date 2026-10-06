@@ -86,7 +86,6 @@
 - **Vertical Stretch**: $y = c \cdot h(x)$ stretches the graph vertically by a factor of $c$ if $c > 1$
 - **Vertical Shrink**: $y = c \cdot h(x)$ shrinks the graph vertically by a factor of $c$ if $0 < c < 1$
 
-
 ### Interest & Compounding Formulas
 
 - **Annual Compound Interest**: $A = P\left(1 + \frac{r}{100}\right)^t$
@@ -136,6 +135,7 @@
 
 ### Coordinate Geometry & Parabolas
 
+- **Standard Equation of Line**:  $y = m \cdot x+b$, where $m$ is the slope, and $b$ is the y-intercept.
 - **Perpendicular Line Slopes**: Product of slopes $m_1 \cdot m_2 = -1$
 - **Reflection across Line** $y = x$: Interchange $x$ and $y$
 - **Circle Equation**: Center $(x', y')$ with radius $r$ is $(x - x')^2 + (y - y')^2 = r^2$
