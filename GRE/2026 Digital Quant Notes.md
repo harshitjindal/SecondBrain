@@ -206,7 +206,7 @@
 
 ### Normal Distribution & Standardization
 
-> [!SUCCESS] Verified 
+
 
 - **Standardization (**$z$**-score)**: To transform a normal distribution with mean $m$ and standard deviation $d$ to a standard normal distribution ($\mu = 0, \sigma = 1$), compute: $z = \frac{x - m}{d}$, where $x$ is the raw data value.
 ### Descriptive Statistics (Additional)
@@ -222,10 +222,14 @@
 
 ### Counting & Combinations
 
+> [!SUCCESS] Verified 
+
 - **Permutations (Order matters)**: The number of ways to arrange $k$ objects from $n$ objects is $nP_k = \frac{n!}{(n-k)!}$
 - **Combinations (Order does NOT matter)**: The number of ways to choose $k$ objects from $n$ objects is $nC_k = \frac{n!}{(n-k)! \cdot k!}$
 
 ### Probability Rules
+
+> [!SUCCESS] Verified 
 
 - **Mutually Exclusive Events** (Cannot happen at the same time): 
 	- $P(E \text{ or } F) = P(E) + P(F)$
