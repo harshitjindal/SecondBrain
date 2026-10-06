@@ -24,13 +24,13 @@
 > [!SUCCESS] Verified 
 
 - **Even/Odd Addition**: 
-  - $\text{Even} + \text{Even} = \text{Even}$
-  - $\text{Odd} + \text{Odd} = \text{Even}$
-  - $\text{Even} + \text{Odd} = \text{Odd}$
+	- $\text{Even} + \text{Even} = \text{Even}$
+	- $\text{Odd} + \text{Odd} = \text{Even}$
+	- $\text{Even} + \text{Odd} = \text{Odd}$
 - **Even/Odd Multiplication**: 
-  - $\text{Even} \times \text{Even} = \text{Even}$
-  - $\text{Odd} \times \text{Odd} = \text{Odd}$
-  - $\text{Even} \times \text{Odd} = \text{Even}$
+	- $\text{Even} \times \text{Even} = \text{Even}$
+	- $\text{Odd} \times \text{Odd} = \text{Odd}$
+	- $\text{Even} \times \text{Odd} = \text{Even}$
 - **Quotient and Remainder**: $c = qd + r$ (where $0 \le r < d$)
 
 ### Percents
