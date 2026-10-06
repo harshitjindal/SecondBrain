@@ -27,6 +27,7 @@
 # ALWAYS IGNORE workspace UI states to prevent constant merge conflicts
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
 
 # ==========================================
 # Optional: Plugins & Extra Caches
