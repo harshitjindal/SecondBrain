@@ -45,7 +45,7 @@
 > [!SUCCESS] Verified 
 
 - **Square Root of Square**: $(\sqrt{a})^2 = a$ for $a \ge 0$, and $\sqrt{a^2} = |a|$
-- **Product of Radicals**: $\sqrt{ab} = \sqrt{a}\sqrt{b}$
+- **Product of Radicals**: $\sqrt{ab} = \sqrt{a}\cdot\sqrt{b}$, requires $a, b \ge 0$
 - **Quotient of Radicals**: $\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}$
 
 ---
@@ -100,7 +100,7 @@
 - **Discriminant (**$D = b^2 - 4ac$**)**:
     - $D > 0$: 2 real roots
     - $D = 0$: 1 real root
-    - $D < 0$: 2 imaginary roots
+    - $D < 0$: no real roots
 
 ### Function Transformations
 
@@ -132,7 +132,7 @@
 
 > [!SUCCESS] Verified 
 
-- **Standard Equation of Line**:  $y = m \cdot x+b$, where $m$ is the slope, and $b$ is the y-intercept.
+- **Standard Equation of Line**:  $y = m \cdot x+b$, where $m$ is the slope, and $b$ is the y-intercept. This is applicable for non-vertical lines only.
 - **Perpendicular Line Slopes**: Product of slopes $m_1 \cdot m_2 = -1$
 - **Reflection across Line** $y = x$: Interchange $x$ and $y$
 - **Parallel Lines & Transversals**: When two parallel lines are cut by a transversal, the angle pairs formed satisfy $x^\circ + y^\circ = 180^\circ$ for supplementary adjacent angles.
