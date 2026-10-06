@@ -1,1 +1,4 @@
 # SecondBrain
+## Powered by Obsidian
+
+
