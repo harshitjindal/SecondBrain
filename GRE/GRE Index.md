@@ -26,7 +26,10 @@
 
 # Quant
 
-##### [Link to Personal Notes](</GRE/Quant Notes.md>)
+### Personal Notes
+
+- [2026 Digital Notes](</GRE/2026 Digital Quant Notes.md>)
+- [2022 Handwritten Notes](</GRE/2022 Handwritten Quant Notes.jpg>)
 
 ### Question Types for Quant
 
