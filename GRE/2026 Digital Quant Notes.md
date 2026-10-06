@@ -93,8 +93,8 @@
 
 ### Word Problem Shortcuts & Notes
 
-- **Combined Work Rates**: Work rates ($\text{batches}/\text{hr}$) can be added directly. Sum the rates and take the reciprocal to find combined time per batch (e.g., Machine A: 3 hrs/batch, Machine B: 2 hrs/batch $\implies \frac{1}{3} + \frac{1}{2} = \frac{5}{6}$ batch/hr $\implies \frac{6}{5}$ hrs/batch)1.
-- **Mixture Problem Basis**: Total mixture weight equals the sum of its individual components (e.g., a 12g mixture of vinegar and oil has a total mass of 12g)1.
+- **Combined Work Rates**: Work rates ($\text{batches}/\text{hr}$) can be added directly. Sum the rates and take the reciprocal to find combined time per batch (e.g., Machine A: 3 hrs/batch, Machine B: 2 hrs/batch $\implies \frac{1}{3} + \frac{1}{2} = \frac{5}{6}$ batch/hr $\implies \frac{6}{5}$ hrs/batch)
+- **Mixture Problem Basis**: Total mixture weight equals the sum of its individual components (e.g., a 12g mixture of vinegar and oil has a total mass of 12g)
 
 
 ---
