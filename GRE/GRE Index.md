@@ -15,7 +15,7 @@ Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
 
 # Verbal
 
-## Question Types for Verbal
+### Question Types for Verbal
 
 - Text Completion: Fill in 1, 2, or 3 blanks within a short passage.  
 - Sentence Equivalence: Select two words that complete a sentence and give it the same meaning.
@@ -25,7 +25,7 @@ Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
 
 # Quant
 
-## Question Types for Quant
+### Question Types for Quant
 
 - Quantitative Comparison (QC): Compare Quantity A and Quantity B and determine their mathematical relationship.  
 - Multiple-Choice (Single Answer): Standard math problem with one correct option.
@@ -33,7 +33,7 @@ Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
 - Numeric Entry: Type the exact numerical answer into a box (no choices provided).  
 - Data Interpretation (DI): Sets of questions based on a provided graph, table, scatterplot, or chart.
 
-## Important Topics for Quant  
+### Important Topics for Quant  
 
 ETS categorizes the syllabus into four primary domains. Based on test trends, prioritize these high-yield areas:  
 
@@ -46,7 +46,7 @@ ETS categorizes the syllabus into four primary domains. Based on test trends, pr
 
 # AWA
 
-# Question Types for AWA
+### Question Types for AWA
 
 - Analyze an Issue: You will evaluate a claim and write a well-reasoned argument supporting your perspective.
 
