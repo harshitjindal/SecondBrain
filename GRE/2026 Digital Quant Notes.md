@@ -86,6 +86,7 @@
 - **Vertical Stretch**: $y = c \cdot h(x)$ stretches the graph vertically by a factor of $c$ if $c > 1$
 - **Vertical Shrink**: $y = c \cdot h(x)$ shrinks the graph vertically by a factor of $c$ if $0 < c < 1$
 
+
 ### Interest & Compounding Formulas
 
 - **Annual Compound Interest**: $A = P\left(1 + \frac{r}{100}\right)^t$
