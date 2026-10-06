@@ -28,6 +28,10 @@ text = re.sub(r"^>\s*\[!SUCCESS\][^\n]*$",
               '<span class="tag ok">Verified</span>', text, flags=re.M | re.I)
 text = re.sub(r"^>\s*\[!QUESTION\][^\n]*$",
               '<span class="tag warn">Needs verification</span>', text, flags=re.M | re.I)
+text = re.sub(r"^>\s*\[!NOTE\][^\n]*$",
+              '<span class="tag new">New</span>', text, flags=re.M | re.I)
+text = re.sub(r"^>\s*\[!WARNING\][^\n]*$",
+              '<span class="tag warn">Corrected</span>', text, flags=re.M | re.I)
 text = re.sub(r"^>\s*\[!abstract\]\s*Overview\s*",
               "> **Overview.** ", text, flags=re.M | re.I)
 
@@ -54,6 +58,7 @@ p { margin: 4px 0; }
 .tag { display: inline-block; font-size: 8pt; font-weight: 700; padding: 1px 7px;
        border-radius: 9px; margin: 0 0 2px; }
 .tag.ok   { background: #e3f4e6; color: #1b6b2c; border: 1px solid #9fd3aa; }
+.tag.new  { background: #e4ecfb; color: #1f3a68; border: 1px solid #a9bde6; }
 .tag.warn { background: #fff1d6; color: #8a5a00; border: 1px solid #e8c36f; }
 .katex { font-size: 1.02em; }
 """
@@ -70,7 +75,7 @@ with tempfile.TemporaryDirectory() as d:
     subprocess.run([
         "pandoc", str(d / "in.md"), "-o", str(html), "--standalone",
         "--from=markdown+tex_math_dollars", katex_arg,
-        "--metadata", "title=GRE Quantitative Reasoning Quick Reference",
+        "--metadata", "title=GRE Quantitative Reasoning Quick Reference (v2)",
         "--metadata", "pagetitle=GRE Quant Cheat Sheet",
         "--css", "style.css", "--wrap=none",
     ], check=True)
