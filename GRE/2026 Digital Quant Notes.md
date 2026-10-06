@@ -83,6 +83,8 @@
 
 ### Function Transformations
 
+>[!QUESTION] Needs verification
+
 - **Vertical Stretch**: $y = c \cdot h(x)$ stretches the graph vertically by a factor of $c$ if $c > 1$
 - **Vertical Shrink**: $y = c \cdot h(x)$ shrinks the graph vertically by a factor of $c$ if $0 < c < 1$
 
@@ -140,6 +142,8 @@
 - **Right Circular Cylinder Surface Area**: $A = 2\pi r^2 + 2\pi r h$
 
 ### Parabolas
+
+>[!QUESTION] Needs verification
 
 - **Horizontal Parabolas**: $x = ay^2 + by + c$ (opens right if $a > 0$, opens left if $a < 0$)
 - **Half-Parabolas**:
