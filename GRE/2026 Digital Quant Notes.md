@@ -114,7 +114,7 @@
 > [!SUCCESS] Verified 
 
 - **Annual Compound Interest**: $A = P\left(1 + \frac{r}{100}\right)^t$
-- **Quarterly / Periodic Compounding**: $A = P\left(1 + \frac{r}{n \cdot 100}\right)^{nt}$ (for quarterly compounding with $n=4$, reduce rate from $r$ to $\frac{r}{n}$ and increase time from $t$ to $n \cdot t$)
+- **Quarterly / Periodic Compounding**: $A = P\left(1 + \frac{r}{n \cdot 100}\right)^{nt}$ (for quarterly compounding with $n=4$, reduce rate from $r$ to $\frac{r}{n}$ and increase time from $t$ to $n \cdot t$) 
 
 ### Word Problem Shortcuts & Notes
 
