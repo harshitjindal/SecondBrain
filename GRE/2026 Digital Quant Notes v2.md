@@ -200,7 +200,7 @@
 - **Annual Compound Interest**: $A = P\left(1 + \frac{r}{100}\right)^t$
 - **Periodic Compounding**: $A = P\left(1 + \frac{r}{n \cdot 100}\right)^{nt}$ ($n$ compounding periods per year; for quarterly compounding $n = 4$: divide the rate by $4$ and multiply the number of years by $4$)
 
-### Word Problems
+### Rate, Work, Distance & Mixture Problems
 
 > [!WARNING] Corrected
 
@@ -218,7 +218,7 @@
 
 > [!WARNING] Corrected
 
-- **Standard Equation of Line**: $y = m x + b$, where $m$ is the slope, and $b$ is the $y$-intercept.
+- **Standard Equation of Line**: $y = m x + b$, where $m$ is the slope, and $b$ is the $y$-intercept. This is applicable for non-vertical lines only.
 - **Slope**: $m = \frac{y_2 - y_1}{x_2 - x_1}$
 - **Point-slope form**: $y - y_1 = m(x - x_1)$
 - **Distance between two points**: $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
