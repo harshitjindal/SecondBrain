@@ -1,7 +1,7 @@
 
 # Test Structure
 
-**Total Time:** ~1 hour 58 minutes. 
+**Total Time:** ~1 hour 58 minutes.  
 **Total Questions:** 54 multiple-choice + 1 essay.
 
 | Section                  | Questions | Time Limit | Average Time / Question |
