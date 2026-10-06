@@ -11,12 +11,9 @@ Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
 | Quantitative Reasoning 1 | 12        | 21 minutes | 1:45                    |
 | Quantitative Reasoning 2 | 15        | 26 minutes | 1:44                    |
 
-
 ---
 
-
 # Verbal
-
 
 ## Question Types for Verbal
 
@@ -24,12 +21,9 @@ Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
 - Sentence Equivalence: Select two words that complete a sentence and give it the same meaning.
 - Reading Comprehension: Includes single-choice, multiple-choice (where one or more answers can be correct), and select-in-passage (clicking a sentence in the text that meets a specific criteria).
 
-
 ---
 
-
 # Quant
-
 
 ## Question Types for Quant
 
@@ -44,17 +38,18 @@ Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
 ETS categorizes the syllabus into four primary domains. Based on test trends, prioritize these high-yield areas:  
 
 - Data Analysis: Statistics (mean, median, mode, standard deviation), probability, combinatorics (permutations/combinations), and Data Interpretation (reading complex graphs). This is often the most heavily tested and complex area for top scorers.  
-    
 - Algebra: Linear and quadratic equations, exponents, roots, functions, and coordinate geometry (slopes, intercepts, graphs of functions).  
-    
 - Arithmetic: Properties of integers (divisibility, prime numbers, factorization, odd/even, remainders), absolute value, ratios, percentages, and number lines.  
-    
 - Geometry: Properties of triangles (especially 30-60-90 and isosceles), circles, quadrilaterals, polygons, and 3D volume/surface area. (Note: No formal proofs or trigonometry are tested).
-
 
 ---
 
-
 # AWA
 
+# Question Types for AWA
 
+- Analyze an Issue: You will evaluate a claim and write a well-reasoned argument supporting your perspective.
+
+
+
+---
