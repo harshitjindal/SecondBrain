@@ -103,6 +103,9 @@
 
 ### Lines & Angles
 
+- **Standard Equation of Line**:  $y = m \cdot x+b$, where $m$ is the slope, and $b$ is the y-intercept.
+- **Perpendicular Line Slopes**: Product of slopes $m_1 \cdot m_2 = -1$
+- **Reflection across Line** $y = x$: Interchange $x$ and $y$
 - **Parallel Lines & Transversals**: When two parallel lines are cut by a transversal, the angle pairs formed satisfy $x^\circ + y^\circ = 180^\circ$ for supplementary adjacent angles.
 
 ### Polygons & Triangles
@@ -118,12 +121,15 @@
 - **Triangle Inequality Theorem**: The length of any side of a triangle must be strictly less than the sum of the lengths of the other two sides, and strictly greater than their positive difference.
 
 ### Circles
+
+- **Circle Equation**: Center $(x', y')$ with radius $r$ is $(x - x')^2 + (y - y')^2 = r^2$
 - **Circumference**: $C = 2\pi r$ or $C = \pi d$
 - **Area**: $A = \pi r^2$
 - **Arc Length**: $\frac{\text{Central Angle}}{360^\circ} \times 2\pi r$
 - **Sector Area**: $\frac{\text{Central Angle}}{360^\circ} \times \pi r^2$
 
 ### 3D Figures (Additional)
+
 - **Rectangular Solid Volume**: $V = \ell w h$
 - **Rectangular Solid Surface Area**: $A = 2(\ell w + \ell h + wh)$
 
@@ -133,12 +139,8 @@
 - **Right Circular Cylinder Volume**: $V = \pi r^2 h$
 - **Right Circular Cylinder Surface Area**: $A = 2\pi r^2 + 2\pi r h$
 
-### Coordinate Geometry & Parabolas
+### Parabolas
 
-- **Standard Equation of Line**:  $y = m \cdot x+b$, where $m$ is the slope, and $b$ is the y-intercept.
-- **Perpendicular Line Slopes**: Product of slopes $m_1 \cdot m_2 = -1$
-- **Reflection across Line** $y = x$: Interchange $x$ and $y$
-- **Circle Equation**: Center $(x', y')$ with radius $r$ is $(x - x')^2 + (y - y')^2 = r^2$
 - **Horizontal Parabolas**: $x = ay^2 + by + c$ (opens right if $a > 0$, opens left if $a < 0$)
 - **Half-Parabolas**:
     - Upward: $\sqrt{y} = x$
