@@ -28,7 +28,7 @@
 
 ### Personal Notes
 
-- [2026 Digital PDF](</GRE/2026 Digital Quant Notes.pdf>)
+- [2026 Digital Notes PDF](</GRE/2026 Digital Quant Notes.pdf>)
 - [2026 Digital Notes MD](</GRE/2026 Digital Quant Notes.md>)
 - [2022 Handwritten Notes](</GRE/2022 Handwritten Quant Notes.jpg>)
 
