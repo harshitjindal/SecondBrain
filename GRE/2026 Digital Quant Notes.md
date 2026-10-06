@@ -81,6 +81,8 @@
 
 ### Rules of Exponents
 
+> [!SUCCESS] Verified 
+
 - **Exponential Equality**: For positive $x \ne 1$, if $x^a = x^b$, then $a = b$
 - **Negative Exponents**: $x^{-a} = \frac{1}{x^a}$
 - **Product Rule**: $x^a \cdot x^b = x^{a+b}$
@@ -91,6 +93,8 @@
 - **Power of a Power**: $(x^a)^b = x^{ab}$
 
 ### Quadratic Equations & Discriminant
+
+> [!SUCCESS] Verified 
 
 - **Quadratic Formula**: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ for $ax^2 + bx + c = 0$
 - **Discriminant (**$D = b^2 - 4ac$**)**:
@@ -107,10 +111,14 @@
 
 ### Interest & Compounding Formulas
 
+> [!SUCCESS] Verified 
+
 - **Annual Compound Interest**: $A = P\left(1 + \frac{r}{100}\right)^t$
 - **Quarterly / Periodic Compounding**: $A = P\left(1 + \frac{r}{n \cdot 100}\right)^{nt}$ (for quarterly compounding with $n=4$, reduce rate from $r$ to $\frac{r}{n}$ and increase time from $t$ to $n \cdot t$)
 
 ### Word Problem Shortcuts & Notes
+
+> [!SUCCESS] Verified 
 
 - **Combined Work Rates**: Work rates ($\text{batches}/\text{hr}$) can be added directly. Sum the rates and take the reciprocal to find combined time per batch (e.g., Machine A: 3 hrs/batch, Machine B: 2 hrs/batch $\implies \frac{1}{3} + \frac{1}{2} = \frac{5}{6}$ batch/hr $\implies \frac{6}{5}$ hrs/batch)
 - **Mixture Problem Basis**: Total mixture weight equals the sum of its individual components (e.g., a 12g mixture of vinegar and oil has a total mass of 12g)
@@ -122,12 +130,16 @@
 
 ### Lines & Angles
 
+> [!SUCCESS] Verified 
+
 - **Standard Equation of Line**:  $y = m \cdot x+b$, where $m$ is the slope, and $b$ is the y-intercept.
 - **Perpendicular Line Slopes**: Product of slopes $m_1 \cdot m_2 = -1$
 - **Reflection across Line** $y = x$: Interchange $x$ and $y$
 - **Parallel Lines & Transversals**: When two parallel lines are cut by a transversal, the angle pairs formed satisfy $x^\circ + y^\circ = 180^\circ$ for supplementary adjacent angles.
 
 ### Polygons & Triangles
+
+> [!SUCCESS] Verified 
 
 - **Convex Polygon**: Interior angles are each less than $180^\circ$
 - **Sum of Interior Angles**: For an $n$-sided polygon, $S = (n - 2) \times 180^\circ$
@@ -141,6 +153,8 @@
 
 ### Circles
 
+> [!SUCCESS] Verified 
+
 - **Circle Equation**: Center $(x', y')$ with radius $r$ is $(x - x')^2 + (y - y')^2 = r^2$
 - **Circumference**: $C = 2\pi r$ or $C = \pi d$
 - **Area**: $A = \pi r^2$
@@ -149,10 +163,14 @@
 
 ### 3D Figures (Additional)
 
+> [!SUCCESS] Verified 
+
 - **Rectangular Solid Volume**: $V = \ell w h$
 - **Rectangular Solid Surface Area**: $A = 2(\ell w + \ell h + wh)$
 
 ### Quadrilaterals & 3D Geometry
+
+> [!SUCCESS] Verified 
 
 - **Area of a Trapezoid**: $A = \frac{1}{2}(b_1 + b_2)h$
 - **Right Circular Cylinder Volume**: $V = \pi r^2 h$
@@ -191,22 +209,24 @@
 - **Standardization (**$z$**-score)**: To transform a normal distribution with mean $m$ and standard deviation $d$ to a standard normal distribution ($\mu = 0, \sigma = 1$), compute: $z = \frac{x - m}{d}$, where $x$ is the raw data value.
 ### Descriptive Statistics (Additional)
 - **Quartiles & IQR**: 
-  - **Median ($Q2$)**: Divides the ordered data into two halves.
-  - **$Q1$**: Median of the first half of the data.
-  - **$Q3$**: Median of the second half of the data.
-  - **Interquartile Range (IQR)**: $Q3 - Q1$ (measures the spread of the middle 50% of the data).
+	- **Median ($Q2$)**: Divides the ordered data into two halves.
+	- **$Q1$**: Median of the first half of the data.
+	- **$Q3$**: Median of the second half of the data.
+	- **Interquartile Range (IQR)**: $Q3 - Q1$ (measures the spread of the middle 50% of the data).
 - **Normal Distribution Empirical Estimates**: 
-  - Approx. $\frac{2}{3}$ (~68%) of data lies within $1$ standard deviation of the mean.
-  - Almost all (~95%) data lies within $2$ standard deviations of the mean.
+	- Approx. $\frac{2}{3}$ (~68%) of data lies within $1$ standard deviation of the mean.
+	- Almost all (~95%) data lies within $2$ standard deviations of the mean.
 
 ### Counting & Combinations
+
 - **Combinations (Order does NOT matter)**: The number of ways to choose $k$ objects from $n$ objects is $nC_k = \frac{n!}{k!(n-k)!}$
 
 ### Probability Rules
+
 - **Mutually Exclusive Events** (Cannot happen at the same time): 
-  - $P(E \text{ or } F) = P(E) + P(F)$
-  - $P(E \text{ and } F) = 0$
+	- $P(E \text{ or } F) = P(E) + P(F)$
+	- $P(E \text{ and } F) = 0$
 - **Independent Events** (One does not affect the other): 
-  - $P(E \text{ and } F) = P(E) \times P(F)$
+	- $P(E \text{ and } F) = P(E) \times P(F)$
 
 
