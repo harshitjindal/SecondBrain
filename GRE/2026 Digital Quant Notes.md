@@ -8,8 +8,6 @@
 
 ### Integers & Real Numbers
 
-> [!SUCCESS] Verified
-
 - **Set of Integers**: $\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}$
 - **Commutative Laws**: $r + s = s + r$ and $rs = sr$
 - **Associative Laws**: $(r + s) + t = r + (s + t)$ and $(rs)t = r(st)$
@@ -20,8 +18,6 @@
     - If $0 < s < 1$, then $s^2 < s$
 
 ### Properties of Integers
-
-> [!SUCCESS] Verified
 
 - **Even/Odd Addition**:
     - $\text{Even} + \text{Even} = \text{Even}$
@@ -34,8 +30,6 @@
 - **Quotient and Remainder**: $c = qd + r$ (where $0 \le r < d$)
 
 ### Primes, Factors & Multiples
-
-> [!NOTE] New
 
 - **Prime**: an integer $> 1$ whose only positive divisors are $1$ and itself. $2$ is the only even prime. $1$ is **not** prime.
 - **Primes below 30**: $2, 3, 5, 7, 11, 13, 17, 19, 23, 29$
@@ -57,8 +51,6 @@
 
 ### Fractions, Decimals, Ratios & Order of Operations
 
-> [!NOTE] New
-
 - **Order of operations (PEMDAS)**: Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right)
 - **Adding fractions**: $\frac{a}{b} + \frac{c}{d} = \frac{ad + bc}{bd}$
 - **Dividing by a fraction**: $\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \cdot \frac{d}{c}$
@@ -71,16 +63,12 @@
 
 ### Percents
 
-> [!WARNING] Corrected
-
 - **Percent**: $x\%$ means $\frac{x}{100}$; "$x\%$ of $y$" is $\frac{x}{100} \cdot y$
 - **Percent Change**: $\frac{\text{Amount of Change}}{\text{Original Amount}} \times 100\%$ *(The base is always the **original** value. For a decrease the original is the larger number; for an increase it is the smaller number.)*
 - **Successive percent changes multiply**: a $p\%$ increase followed by a $q\%$ decrease gives a factor $\left(1 + \frac{p}{100}\right)\left(1 - \frac{q}{100}\right)$. They do **not** simply add or cancel (a $20\%$ increase then a $20\%$ decrease leaves $96\%$ of the original).
 - **Percent vs. percentage points**: going from $40\%$ to $50\%$ is $+10$ percentage points, which is a $25\%$ increase.
 
 ### Exponents & Radicals
-
-> [!WARNING] Corrected
 
 - **Square Root of Square**: $(\sqrt{a})^2 = a$ for $a \ge 0$, and $\sqrt{a^2} = |a|$
 - **Product of Radicals**: $\sqrt{ab} = \sqrt{a}\sqrt{b}$ **for $a, b \ge 0$**
@@ -90,8 +78,6 @@
 - **Warning**: $\sqrt{a + b} \ne \sqrt{a} + \sqrt{b}$ in general.
 
 ### Absolute Value
-
-> [!NOTE] New
 
 - **Definition**: $|x| = x$ if $x \ge 0$, and $|x| = -x$ if $x < 0$. Always $|x| \ge 0$.
 - $|x| = a$ (with $a > 0$) $\iff x = a$ or $x = -a$
@@ -105,8 +91,6 @@
 
 ### Definitions & Terminology
 
-> [!SUCCESS] Verified
-
 - **Rational vs. Irrational Numbers**: Rational numbers ($c/d$) can be represented as terminating or repeating decimals, whereas irrational numbers cannot.
 - **Like Terms**: Terms with identical variables and corresponding exponents (e.g., $5z^2$ and $-z^2$)
 - **Degree of a Term & Polynomial**:
@@ -114,8 +98,6 @@
     - **Polynomial Degree**: The maximum degree among its terms (e.g., degree of $4x^2 + 7x^5y - 62$ is $6$)
 
 ### Key Algebraic Identities
-
-> [!SUCCESS] Verified
 
 - **Distributive Property**: $c(a + b) = ca + cb$ and $c(a - b) = ca - cb$
 - **Square of a Sum**: $(a + b)^2 = a^2 + 2ab + b^2$
@@ -126,21 +108,15 @@
 
 ### Factoring
 
-> [!NOTE] New
-
 - **Common factor**: $ab + ac = a(b + c)$
 - **Trinomial**: $x^2 + (p + q)x + pq = (x + p)(x + q)$. Find two numbers whose sum equals the $x$-coefficient and whose product equals the constant.
 - **Never divide by a variable that could be $0$**; factor and use the zero-product property instead: $ab = 0 \implies a = 0$ or $b = 0$.
 
 ### Linear Inequalities
 
-> [!SUCCESS] Verified
-
 - **Sign Reversal**: When multiplying or dividing both sides of an inequality by a negative number, you **MUST** reverse the direction of the inequality sign.
 
 ### Rules of Exponents
-
-> [!SUCCESS] Verified
 
 - **Exponential Equality**: For positive $x \ne 1$, if $x^a = x^b$, then $a = b$
 - **Negative Exponents**: $x^{-a} = \frac{1}{x^a}$
@@ -153,8 +129,6 @@
 
 ### Quadratic Equations & Discriminant
 
-> [!WARNING] Corrected
-
 - **Quadratic Formula**: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ for $ax^2 + bx + c = 0$
 - **Discriminant ($D = b^2 - 4ac$)**:
     - $D > 0$: 2 distinct real roots
@@ -165,16 +139,12 @@
 
 ### Systems of Equations
 
-> [!NOTE] New
-
 - **Substitution**: solve one equation for a variable and substitute into the other.
 - **Elimination**: add or subtract multiples of the equations to cancel a variable.
 - **Number of solutions** of two linear equations: one (lines intersect), none (parallel lines), or infinitely many (same line).
 - **Shortcut**: GRE questions often ask for an expression such as $x + y$ or $x - y$. Try adding or subtracting the equations directly before solving for each variable.
 
 ### Functions & Transformations
-
-> [!WARNING] Corrected
 
 - **Function**: each input $x$ gives exactly one output $f(x)$. **Domain** = allowed inputs; **range** = resulting outputs. Watch for division by zero and square roots of negatives.
 - **Vertical Stretch**: $y = c \cdot h(x)$ stretches the graph vertically by a factor of $c$ if $c > 1$
@@ -187,22 +157,16 @@
 
 ### Sequences
 
-> [!NOTE] New
-
 - **Arithmetic** (common difference $d$): $a_n = a_1 + (n - 1)d$; sum of the first $n$ terms $S_n = \frac{n(a_1 + a_n)}{2}$
 - **Geometric** (common ratio $r$): $a_n = a_1 r^{\,n-1}$; sum of the first $n$ terms $S_n = \frac{a_1(1 - r^n)}{1 - r}$ for $r \ne 1$
 
 ### Interest & Compounding Formulas
-
-> [!WARNING] Corrected
 
 - **Simple Interest**: $I = P \cdot \frac{r}{100} \cdot t$, so the total is $A = P\left(1 + \frac{rt}{100}\right)$
 - **Annual Compound Interest**: $A = P\left(1 + \frac{r}{100}\right)^t$
 - **Periodic Compounding**: $A = P\left(1 + \frac{r}{n \cdot 100}\right)^{nt}$ ($n$ compounding periods per year; for quarterly compounding $n = 4$: divide the rate by $4$ and multiply the number of years by $4$)
 
 ### Rate, Work, Distance & Mixture Problems
-
-> [!WARNING] Corrected
 
 - **Distance**: $d = r \cdot t$
 - **Average speed** $= \frac{\text{total distance}}{\text{total time}}$. This is **not** the average of the two speeds unless the times are equal.
@@ -216,8 +180,6 @@
 
 ### Lines & Coordinate Formulas
 
-> [!WARNING] Corrected
-
 - **Standard Equation of Line**: $y = m x + b$, where $m$ is the slope, and $b$ is the $y$-intercept. This is applicable for non-vertical lines only.
 - **Slope**: $m = \frac{y_2 - y_1}{x_2 - x_1}$
 - **Point-slope form**: $y - y_1 = m(x - x_1)$
@@ -230,23 +192,17 @@
 
 ### Angles
 
-> [!WARNING] Corrected
-
 - **Straight line**: angles on a line sum to $180^\circ$. **Full turn**: angles around a point sum to $360^\circ$.
 - **Vertical angles** (opposite each other where two lines cross) are equal.
 - **Parallel lines cut by a transversal**: corresponding angles are equal; alternate interior angles are equal; interior angles on the same side are supplementary ($x^\circ + y^\circ = 180^\circ$). Only two distinct angle measures appear: one acute and one obtuse (or all $90^\circ$).
 
 ### Polygons
 
-> [!SUCCESS] Verified
-
 - **Convex Polygon**: Interior angles are each less than $180^\circ$
 - **Sum of Interior Angles**: For an $n$-sided polygon, $S = (n - 2) \times 180^\circ$
 - **Regular Polygon Interior Angle**: $I = \frac{(n - 2) \times 180^\circ}{n}$
 
 ### Triangles
-
-> [!WARNING] Corrected
 
 - **Angle sum**: the interior angles of a triangle sum to $180^\circ$
 - **Triangle Exterior Angle Theorem**: An exterior angle measure equals the sum of the two remote interior angles ($z = x + y$)
@@ -263,16 +219,12 @@
 
 ### Quadrilaterals
 
-> [!WARNING] Corrected
-
 - **Rectangle**: $A = \ell w$, perimeter $= 2(\ell + w)$, diagonal $= \sqrt{\ell^2 + w^2}$
 - **Square** with side $s$: $A = s^2$, perimeter $= 4s$, diagonal $= s\sqrt{2}$
 - **Parallelogram**: $A = bh$ (height is perpendicular to the base, **not** the slanted side)
 - **Area of a Trapezoid**: $A = \frac{1}{2}(b_1 + b_2)h$
 
 ### Circles
-
-> [!WARNING] Corrected
 
 - **Circle Equation**: Center $(x', y')$ with radius $r$ is $(x - x')^2 + (y - y')^2 = r^2$
 - **Circumference**: $C = 2\pi r$ or $C = \pi d$
@@ -285,8 +237,6 @@
 
 ### 3D Figures
 
-> [!WARNING] Corrected
-
 - **Rectangular Solid Volume**: $V = \ell w h$
 - **Rectangular Solid Surface Area**: $A = 2(\ell w + \ell h + wh)$
 - **Space diagonal of a rectangular solid**: $\sqrt{\ell^2 + w^2 + h^2}$
@@ -295,8 +245,6 @@
 - **Right Circular Cylinder Surface Area**: $A = 2\pi r^2 + 2\pi r h$ (two circular ends plus the lateral surface $2\pi r h$)
 
 ### Parabolas
-
-> [!WARNING] Corrected
 
 - **Vertical Parabolas**: $y = ax^2 + bx + c$ (opens up if $a > 0$, opens down if $a < 0$); vertex at $x = -\frac{b}{2a}$
 - **Horizontal Parabolas**: $x = ay^2 + by + c$ (opens right if $a > 0$, opens left if $a < 0$)
@@ -312,8 +260,6 @@
 
 ### Basic Statistics
 
-> [!NOTE] New
-
 - **Mean**: $\frac{\text{sum of values}}{\text{number of values}}$, so $\text{sum} = \text{mean} \times n$
 - **Median**: middle value of the ordered data (average of the two middle values if $n$ is even)
 - **Mode**: most frequent value (a set may have none, one, or several)
@@ -323,8 +269,6 @@
 - **Effect of transformations**: adding a constant $c$ to every value shifts mean and median by $c$ and leaves the range and standard deviation unchanged; multiplying every value by $k$ multiplies the mean, median and range by $k$ and the standard deviation by $|k|$.
 
 ### Standard Deviation & Quartiles
-
-> [!WARNING] Corrected
 
 - **Standard Deviation Calculation Steps**:
     1. Compute the mean of the data set
@@ -344,8 +288,6 @@
 
 ### Normal Distribution & Standardization
 
-> [!WARNING] Corrected
-
 - **Standardization ($z$-score)**: To transform a normal distribution with mean $m$ and standard deviation $d$ to a standard normal distribution ($\mu = 0, \sigma = 1$), compute: $z = \frac{x - m}{d}$, where $x$ is the raw data value.
 - **Empirical Rule**:
     - About $68\%$ (roughly $\frac{2}{3}$) of data lies within $1$ standard deviation of the mean.
@@ -355,16 +297,12 @@
 
 ### Reading Graphs & Data Displays
 
-> [!NOTE] New
-
 - **Histogram**: bar heights show frequency; bars touch. **Bar graph**: separate categories. **Circle graph**: the sectors' percentages sum to $100\%$, so a sector's angle is $\text{percent} \times 360^\circ$.
 - **Scatterplot**: a line of best fit with positive slope indicates positive association (and negative slope, negative association). Association does not prove causation.
 - **Frequency distribution**: to find the mean or median from a table, use the frequencies as weights or counts.
 - **Read carefully**: check the title, units, scale and axis labels, and whether values are given as percents or raw counts before answering.
 
 ### Counting & Sets
-
-> [!WARNING] Corrected
 
 - **Multiplication Principle**: For sequential independent choices with $k$ possibilities followed by $m$ possibilities, total outcomes $= k \cdot m$
 - **Permutations of all objects**: the number of orderings of $n$ distinct objects is $n!$
@@ -377,8 +315,6 @@
     - For two overlapping groups: $\text{Total} = A + B - \text{Both} + \text{Neither}$
 
 ### Probability Rules
-
-> [!WARNING] Corrected
 
 - **Probability range**: $0 \le P(E) \le 1$. For equally likely outcomes, $P(E) = \frac{\text{favorable outcomes}}{\text{total outcomes}}$
 - **Complement**: $P(\text{not } E) = 1 - P(E)$. For "at least one" problems, compute $1 - P(\text{none})$.
@@ -396,7 +332,7 @@
 
 # Quantitative Comparison & Test-Taking Tips
 
-> [!NOTE] New
+> [!TIP] Tips
 
 - **Quantitative Comparison answers**: (A) Quantity A is greater; (B) Quantity B is greater; (C) the two are equal; (D) the relationship cannot be determined.
 - **Choose (D)** only if different allowed values of the variables flip the comparison. If any valid choice gives a different result than another valid choice, the answer is (D).
@@ -410,7 +346,7 @@
 
 # Change Log (v1 to v2)
 
-> [!NOTE] New
+> [!INFO] Info
 
 - **Corrected (errors)**:
     - Half-parabola labels: $\sqrt{y} = -x$ is the **left half** of $y = x^2$, not "downward"; $\sqrt{x} = -y$ is the **lower half** of $x = y^2$, not "left-opening"; the other two are the right half and upper half.
