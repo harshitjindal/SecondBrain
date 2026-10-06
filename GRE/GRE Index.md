@@ -66,10 +66,7 @@ ETS categorizes the syllabus into four primary domains. Based on test trends, pr
 	3. AWA: https://www.ets.org/gre/test-takers/general-test/prepare/content/analytical-writing.html
 3. Official Prep Material: https://www.ets.org/gre/test-takers/general-test/prepare/test-prep-accessible-formats.html
 	1. Verbal
-	2. Quant: [[gre-math-review.pdf]]
+	2. Quant: [GRE Math Review PDF](GRE/gre-math-review.pdf)
 	3. AWA
 	4. Mock Tests
-
-
-
 
