@@ -74,6 +74,9 @@
 - **Cube of a Difference**: $(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$
 
 ### Linear Inequalities
+
+> [!SUCCESS] Verified 
+
 - **Sign Reversal**: When multiplying or dividing both sides of an inequality by a negative number, you **MUST** reverse the direction of the inequality sign.
 
 ### Rules of Exponents
