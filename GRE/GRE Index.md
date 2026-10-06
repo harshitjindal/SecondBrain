@@ -1,7 +1,8 @@
 
 # Test Structure
 
-Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
+**Total Time:** ~1 hour 58 minutes. 
+**Total Questions:** 54 multiple-choice + 1 essay.
 
 | Section                  | Questions | Time Limit | Average Time / Question |
 | ------------------------ | --------- | ---------- | ----------------------- |
@@ -25,6 +26,8 @@ Total Time: ~1 hour 58 minutes. Total Questions: 54 multiple-choice + 1 essay.
 
 # Quant
 
+### [Link to Personal Notes](</GRE/Quant Notes>)
+
 ### Question Types for Quant
 
 - Quantitative Comparison (QC): Compare Quantity A and Quantity B and determine their mathematical relationship.  
@@ -42,7 +45,6 @@ ETS categorizes the syllabus into four primary domains. Based on test trends, pr
 - Arithmetic: Properties of integers (divisibility, prime numbers, factorization, odd/even, remainders), absolute value, ratios, percentages, and number lines.  
 - Geometry: Properties of triangles (especially 30-60-90 and isosceles), circles, quadrilaterals, polygons, and 3D volume/surface area. (Note: No formal proofs or trigonometry are tested).
 
-### Notes: 
 
 ---
 
