@@ -193,4 +193,3 @@
   - $P(E \text{ and } F) = P(E) \times P(F)$
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
