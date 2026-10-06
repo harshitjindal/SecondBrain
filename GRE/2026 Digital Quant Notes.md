@@ -8,6 +8,8 @@
 
 ### Integers & Real Numbers
 
+> [!SUCCESS] Verified 
+
 - **Set of Integers**: $\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}$
 - **Commutative Laws**: $r + s = s + r$ and $rs = sr$
 - **Associative Laws**: $(r + s) + t = r + (s + t)$ and $(rs)t = r(st)$
@@ -18,6 +20,9 @@
     - If $0 < s < 1$, then $s^2 < s$
 
 ### Properties of Integers
+
+> [!SUCCESS] Verified 
+
 - **Even/Odd Addition**: 
   - $\text{Even} + \text{Even} = \text{Even}$
   - $\text{Odd} + \text{Odd} = \text{Even}$
@@ -29,10 +34,15 @@
 - **Quotient and Remainder**: $c = qd + r$ (where $0 \le r < d$)
 
 ### Percents
+
+> [!SUCCESS] Verified 
+
 - **Percent Change**: $\frac{\text{Amount of Change}}{\text{Base (Initial Amount)}} \times 100\%$ 
 *(Note: When calculating percent decrease, the base is the larger initial number; for percent increase, the base is the smaller initial number).*
 
 ### Exponents & Radicals Properties
+
+> [!SUCCESS] Verified 
 
 - **Square Root of Square**: $(\sqrt{a})^2 = a$ for $a \ge 0$, and $\sqrt{a^2} = |a|$
 - **Product of Radicals**: $\sqrt{ab} = \sqrt{a}\sqrt{b}$
@@ -44,6 +54,8 @@
 
 ### Definitions & Terminology
 
+> [!SUCCESS] Verified 
+
 - **Rational vs. Irrational Numbers**: Rational numbers ($c/d$) can be represented as terminating or repeating decimals, whereas irrational numbers cannot.
 - **Like Terms**: Terms with identical variables and corresponding exponents (e.g., $5z^2$ and $-z^2$)
 - **Degree of a Term & Polynomial**:
@@ -51,6 +63,8 @@
     - **Polynomial Degree**: The maximum degree among its terms (e.g., degree of $4x^2 + 7x^5y - 62$ is $6$)
 
 ### Key Algebraic Identities
+
+> [!SUCCESS] Verified 
 
 - **Distributive Property**: $c(a + b) = ca + cb$ and $c(a - b) = ca - cb$
 - **Square of a Sum**: $(a + b)^2 = a^2 + 2ab + b^2$
