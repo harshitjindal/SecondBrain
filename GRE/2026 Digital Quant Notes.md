@@ -4,7 +4,17 @@
 
 ---
 
-# 1. Arithmetic & Real Numbers
+# Definitions & Terminology
+
+- **Rational vs. Irrational Numbers**: Rational numbers ($c/d$) can be represented as terminating or repeating decimals, whereas irrational numbers cannot.
+- **Like Terms**: Terms with identical variables and corresponding exponents (e.g., $5z^2$ and $-z^2$)
+- **Degree of a Term & Polynomial**:
+    - **Term Degree**: Sum of the exponents of all variables in that term (e.g., degree of $5xy^2$ is $1 + 2 = 3$)
+    - **Polynomial Degree**: The maximum degree among its terms (e.g., degree of $4x^2 + 7x^5y - 62$ is $6$)
+
+---
+
+# Arithmetic & Real Numbers
 
 ### Integers & Real Numbers
 
@@ -17,6 +27,9 @@
     - If $r > 1$, then $r^2 > r$
     - If $0 < s < 1$, then $s^2 < s$
 
+
+
+
 ### Exponents & Radicals Properties
 
 - **Square Root of Square**: $(\sqrt{a})^2 = a$ for $a \ge 0$, and $\sqrt{a^2} = |a|$
@@ -25,7 +38,7 @@
 
 ---
 
-# 2. Algebra & Functions
+# Algebra & Functions
 
 ### Key Algebraic Identities
 
@@ -54,7 +67,7 @@
 
 ---
 
-# 3. Geometry
+# Geometry
 
 ### Lines & Angles
 
@@ -79,7 +92,7 @@
 
 ---
 
-# 4. Data Analysis & Probability
+# Data Analysis & Probability
 
 ### Descriptive Statistics & Sets
 
