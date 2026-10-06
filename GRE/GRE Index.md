@@ -53,3 +53,15 @@ ETS categorizes the syllabus into four primary domains. Based on test trends, pr
 
 
 ---
+
+
+# Important Links:
+
+1. Official Flashcards: https://www.ets.org/gre/test-takers/general-test/prepare/flashcards.html
+2. Official Guides: https://www.ets.org/gre/test-takers/general-test/prepare/content.html
+	1. Verbal: https://www.ets.org/gre/test-takers/general-test/prepare/content/verbal-reasoning.html
+	2. Quant: https://www.ets.org/gre/test-takers/general-test/prepare/content/quantitative-reasoning.html
+	3. AWA: https://www.ets.org/gre/test-takers/general-test/prepare/content/analytical-writing.html
+3. Official Prep Material: https://www.ets.org/gre/test-takers/general-test/prepare/test-prep-accessible-formats.html
+
+
