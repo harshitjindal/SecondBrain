@@ -26,7 +26,7 @@
 
 # Quant
 
-###### [Link to Personal Notes](</GRE/Quant Notes.md>)
+##### [Link to Personal Notes](</GRE/Quant Notes.md>)
 
 ### Question Types for Quant
 
