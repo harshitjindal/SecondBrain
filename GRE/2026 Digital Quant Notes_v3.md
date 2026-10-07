@@ -501,6 +501,17 @@ For any function $h(x)$ and positive number $c$:
 
 ---
 
+# Change Log (v1 to v2)
+
+> [!INFO] Info
+
+- **Corrected (errors)**:
+    - Half-parabola labels: $\sqrt{y} = -x$ is the **left half** of $y = x^2$, not "downward"; $\sqrt{x} = -y$ is the **lower half** of $x = y^2$, not "left-opening"; the other two are the right half and upper half.
+    - Discriminant with $D < 0$: "no real roots", not "2 imaginary roots".
+    - Radical rules now state their domain conditions.
+- **Corrected (precision)**: percent change base is the original value; perpendicular slopes apply to non-vertical lines; "almost all ($\sim 95\%$)" replaced by the full $68$-$95$-$99.7$ rule; quartile convention for odd $n$ stated; transversal angle relationships completed; "triangle ratio" and "Parabolas" wording tightened.
+- **Added**: primes, factors, GCD/LCM, divisibility; fractions, ratios, order of operations, common values; absolute value; factoring; systems of equations; full function transformations; sequences; rate/work/distance, weighted average, simple interest; coordinate formulas; angle rules; triangle extras (triples, equilateral, similar triangles); quadrilaterals; circle theorems; cube and space diagonal; vertical parabolas; mean/median/mode/range and transformation effects; graph reading; counting extras; complement, general addition, conditional probability, expected value; Quantitative Comparison tips.
+
 # Change Log (v2 to v3)
 
 > [!INFO] Info
