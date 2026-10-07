@@ -595,6 +595,7 @@ For any function $h(x)$ and positive number $c$:
 
 
 ---
+
 # Quantitative Comparison & Test-Taking Tips
 
 > [!TIP] Tips
