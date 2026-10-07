@@ -404,6 +404,7 @@ For any function $h(x)$ and positive number $c$:
 - **Weighted mean**: $\frac{\sum f_i x_i}{\sum f_i}$ (frequencies or weights $f_i$). The mean of a list with repeated values is the weighted mean of its distinct values.
 - **Median**: middle value of the ordered data (average of the two middle values if $n$ is even)
 - **Mode**: most frequent value (a list may have none, one, or several)
+- **Frequency distribution**: to find the mean or median from a table, use the frequencies as weights or counts.
 - **Mean vs. median**: an unusually high or low value pulls the mean but barely moves the median. Combining two groups: the combined mean is a weighted mean, but the combined median generally **cannot** be determined from the group medians alone.
 - **Range**: $\text{max} - \text{min}$
 - **Effect of adding a value equal to the mean**: the mean stays the same.
