@@ -1,5 +1,5 @@
 # GRE Quantitative Reasoning Quick Reference (v4)
-##### Author: Harshit Jindal
+##### Author: Harshit Jindal, reachable at [contact@harshitjindal.com](mailto:contact@harshitjindal.com)
 
 > [!abstract] Overview A formula and concept sheet for GRE Quantitative Reasoning, checked against the ETS **GRE Math Review**. Items marked "beyond the review" are useful extras that the review does not explicitly cover.
 
