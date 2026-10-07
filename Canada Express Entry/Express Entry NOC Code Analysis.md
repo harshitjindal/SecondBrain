@@ -5,7 +5,7 @@
 - [ ] Develop and implement policies and procedures for electronic data processing and computer systems development and operations
 - [x] Meet with clients to discuss system requirements, specifications, costs and timelines
 - [/] Assemble and manage teams of information systems personnel to design, develop, implement, operate and administer computer and telecommunications software, networks and information systems (POTENTIALLY, with PD members)
-- [ ] Control the budget and expenditures of the department, company or project
+- [] Control the budget and expenditures of the department, company or project
 - [x] Recruit and supervise computer analysts, engineers, programmers, technicians and other personnel and oversee their professional development and training.
 
 ## 21221: Business systems specialists
