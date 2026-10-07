@@ -32,6 +32,8 @@ text = re.sub(r"^>\s*\[!NOTE\][^\n]*$",
               '<span class="tag new">New</span>', text, flags=re.M | re.I)
 text = re.sub(r"^>\s*\[!WARNING\][^\n]*$",
               '<span class="tag warn">Corrected</span>', text, flags=re.M | re.I)
+text = re.sub(r"^>\s*\[!(?:TIP|INFO)\]\s*(.*)$",
+              lambda m: f'<span class="tag new">{m.group(1) or "Note"}</span>', text, flags=re.M | re.I)  # generic callouts
 text = re.sub(r"^>\s*\[!abstract\]\s*Overview\s*",
               "> **Overview.** ", text, flags=re.M | re.I)
 
@@ -75,7 +77,7 @@ with tempfile.TemporaryDirectory() as d:
     subprocess.run([
         "pandoc", str(d / "in.md"), "-o", str(html), "--standalone",
         "--from=markdown+tex_math_dollars", katex_arg,
-        "--metadata", "title=GRE Quantitative Reasoning Quick Reference (v2)",
+        "--metadata", "title=GRE Quantitative Reasoning Quick Reference (v3)",
         "--metadata", "pagetitle=GRE Quant Cheat Sheet",
         "--css", "style.css", "--wrap=none",
     ], check=True)
