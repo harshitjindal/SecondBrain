@@ -1,4 +1,4 @@
-# GRE Quantitative Reasoning Quick Reference (v3)
+# GRE Quantitative Reasoning Quick Reference (v4)
 
 > [!abstract] Overview A formula and concept sheet for GRE Quantitative Reasoning, checked against the ETS **GRE Math Review**. Items marked "beyond the review" are useful extras that the review does not explicitly cover.
 
@@ -486,6 +486,115 @@ For any function $h(x)$ and positive number $c$:
 
 ---
 
+# Common GRE Traps
+
+> [!INFO] Read this first
+
+- These are mistakes the GRE is designed to catch. Traps that are **already covered above are not repeated here**: the Quantitative Comparison special-values test and choice (D) logic, figures not drawn to scale, the algebra "Common Mistakes" list, percent traps (original base, successive changes, percentage points, different totals), average speed, work rates, "must" versus "could", and the unit-conversion note.
+- **How to use this section**: before you finalize an answer, run through four quick checks: *sign* (can the variable be negative or zero?), *size* (is the answer plausible?), *units* (is it in the units asked?), *question* (did I answer the last line?).
+
+### Number & Sign Traps
+
+- **"Number" does not mean positive integer.** Unless told otherwise a variable can be negative, zero, or a fraction. Watch the exact words: *integer*, *positive* ($> 0$), *nonnegative* ($\ge 0$, includes $0$), *distinct*, *consecutive*.
+- **Special numbers**: $0$ is even and is neither positive nor negative. $1$ is neither prime nor composite. $2$ is the only even prime. $0^n = 0$ and $1^n = 1$ for every positive $n$.
+- **Squares have two roots.** $x^2 = 9$ gives $x = 3$ or $x = -3$; $x^2 = 16$ does **not** imply $x = 4$. Likewise $x^2 > 4$ means $x > 2$ **or** $x < -2$, not just $x > 2$.
+- **Squaring does not preserve order for negatives.** $-3 < 2$ but $(-3)^2 > 2^2$. "If $x > y$ then $x^2 > y^2$" is false in general; it is safe only when both sides are non-negative.
+- **Power direction depends on the size of $x$**:
+    - $x > 1$: $x^2 > x$ and $\sqrt{x} < x$
+    - $0 < x < 1$: $x^2 < x$, $\sqrt{x} > x$, and $\frac{1}{x} > 1$
+    - $x < 0$: $x^2 > x$ (a square is never negative)
+- **Never multiply or divide an inequality by an expression whose sign you do not know.** Example: $\frac{1}{x} > 2$ does **not** simply give $x < \frac{1}{2}$. For $x > 0$ it gives $0 < x < \frac{1}{2}$; for $x < 0$ the left side is negative, so no negative $x$ works.
+- **Reciprocals reverse order only when both numbers have the same sign.** For $0 < a < b$: $\frac{1}{a} > \frac{1}{b}$. For $a < 0 < b$: $\frac{1}{a} < \frac{1}{b}$.
+- **Adding the same number to top and bottom changes a fraction**: $\frac{1}{2} \to \frac{2}{3}$. Do not "cancel" across a sum.
+- **Subtracting a sum**: $a - (b + c) = a - b - c$ (not $a - b + c$). Subtracting a negative adds: $5 - (-3) = 8$.
+- **Wording order**: "$5$ less than $x$" is $x - 5$; "$x$ less than $5$" is $5 - x$. "$x$ is $3$ times $y$" is $x = 3y$ (not $y = 3x$).
+- **Counting inclusively (fencepost)**: the integers from $12$ to $30$ **inclusive** number $30 - 12 + 1 = 19$, not $18$.
+- **Division by a fraction**: $6 \div \frac{1}{2} = 12$ (not $3$). "Half of $6$" is $3$.
+- **Percent of a fraction**: $\frac{1}{2}\% = 0.5\% = 0.005$, not $0.5$.
+
+### Algebra Traps (Extra)
+
+- **Dividing by a variable loses a solution.** $x^2 = 5x$ has **two** solutions, $x = 0$ and $x = 5$. Factor instead: $x(x - 5) = 0$.
+- **Squaring both sides can create extraneous solutions.** $\sqrt{2x + 3} = x$ becomes $2x + 3 = x^2$, giving $x = 3$ or $x = -1$; but $x = -1$ fails the original (a square root cannot equal a negative). Always plug back in, and also exclude any value that makes a denominator $0$.
+- **Function notation**: $f(x + 1) \ne f(x) + 1$ and $f(2x) \ne 2f(x)$. With $f(x) = x^2$: $f(x + 1) = x^2 + 2x + 1$ but $f(x) + 1 = x^2 + 1$; $f(2x) = 4x^2$ but $2f(x) = 2x^2$. Evaluate the inside first, then apply $f$.
+- **Absolute-value inequalities**: $|x - 3| < 2$ means $1 < x < 5$ ("and"); $|x - 3| > 2$ means $x < 1$ **or** $x > 5$. $|x - 3| = 2$ gives two answers, $x = 1$ and $x = 5$.
+- **Compare powers with a common exponent or base.** Is $2^{100}$ or $3^{60}$ larger? Write $2^{100} = (2^5)^{20} = 32^{20}$ and $3^{60} = (3^3)^{20} = 27^{20}$, so $2^{100}$ is larger.
+- **"Solving" both quantities in a comparison**: if you multiply or divide both sides by a variable, check its sign first.
+
+### Word-Problem Traps
+
+- **"More than" versus "of"**: "$x$ is $25\%$ **more than** $y$" means $x = 1.25y$; "$x$ is $25\%$ **of** $y$" means $x = 0.25y$; "$x$ is $25\%$ **less than** $y$" means $x = 0.75y$.
+- **Undoing a percent change is not the opposite percent**: after a $25\%$ increase ($100 \to 125$), returning to $100$ is a $20\%$ **decrease**, not $25\%$.
+- **Ratios: part-to-part versus part-to-whole.** If boys : girls $= 3 : 5$, boys are $\frac{3}{8}$ of the class, not $\frac{3}{5}$. "The ratio of $a$ to $b$" is $a : b$ (order matters).
+- **Average of averages**: do **not** average two group means unless the groups are the same size. Group A: $10$ people, mean $80$; group B: $30$ people, mean $90$. Combined mean $= \frac{800 + 2700}{40} = 87.5$, not $85$.
+- **Overlapping groups**: do not double count. *Exactly one* of two groups $= A + B - 2(\text{Both})$. *At least one* $= A + B - \text{Both}$. *Neither* $= \text{Total} - (\text{at least one})$.
+- **Read what is asked for**: solve for $x$, then answer the question (maybe $3x + 1$, a total rather than an average, a difference rather than a value, or an answer "in terms of $y$").
+
+### Geometry Traps
+
+- **Radius versus diameter.** If the problem gives the diameter, halve it before using $\pi r^2$ or $2\pi r$.
+- **Scaling**: doubling a radius or a side multiplies **length** by $2$, **area** by $4$, and **volume** by $8$ (a circle's circumference only doubles). If a figure's perimeter doubles, its area quadruples.
+- **Units**: perimeter and circumference are lengths (cm); area is cm$^2$; volume is cm$^3$.
+- **Do not assume** right angles, parallel lines, equal sides, midpoints or equal angles from a drawing. Use only marked or stated facts.
+- **The Pythagorean theorem is for right triangles only**, and the hypotenuse is the side **opposite** the $90^\circ$ angle (always the longest side).
+- **Special triangles: put the $\sqrt{\ }$ on the right side.**
+    - $45^\circ\text{-}45^\circ\text{-}90^\circ$: hypotenuse $=$ leg $\times \sqrt{2}$, so leg $=$ hypotenuse $\div \sqrt{2}$. A square with diagonal $d$ has side $\frac{d}{\sqrt{2}}$.
+    - $30^\circ\text{-}60^\circ\text{-}90^\circ$: short leg $= x$ (opposite $30^\circ$), long leg $= x\sqrt{3}$ (opposite $60^\circ$), hypotenuse $= 2x$. The $\sqrt{3}$ belongs to the **long leg**, not the hypotenuse.
+- **Height is not a slanted side.** For triangles, parallelograms and trapezoids use the **perpendicular** height. In an obtuse triangle the height can fall **outside** the triangle.
+- **Shaded regions**: usually area of the whole minus area of the unshaded part(s). For a sector use $\frac{\text{central angle}}{360^\circ}$ times the circle's area (not its circumference); for an arc use that fraction times the **circumference**. Do not mix the two.
+- **Polygon angle sum** uses $(n - 2) \times 180^\circ$, not $n \times 180^\circ$.
+- **Coordinate geometry**:
+    - Keep the point order consistent in slope: $\frac{y_2 - y_1}{x_2 - x_1}$ (do not subtract $y$'s in one order and $x$'s in the other).
+    - A perpendicular slope **flips and changes sign**: $\frac{2}{3} \to -\frac{3}{2}$.
+    - A point's coordinates in a quadrant must match its signs; points on an axis are in no quadrant.
+
+### Counting & Probability Traps
+
+- **Does order matter?** Roles or rankings (president, vice-president, treasurer; a lineup; a password) use permutations: $9 \cdot 8 \cdot 7 = 504$. A committee or hand uses combinations: $\binom{9}{3} = 84 = \frac{504}{3!}$.
+- **Overcounting**: build counts from cases that do **not overlap**, or divide by the number of equivalent orderings. For "at least one", use the complement.
+- **Repeated items**: arrangements of BOOK $= \frac{4!}{2!} = 12$, not $4! = 24$.
+- **"And" versus "or"**: independent "A **and** B" **multiplies**; "A **or** B" **adds** (and subtracts the overlap). Adding for "and", or multiplying for "or", is a classic wrong answer.
+- **The gambler's fallacy**: past independent outcomes do not change the next one. After five heads, the next flip is still $\frac{1}{2}$ heads. But "at least one head in $3$ flips" is $1 - \left(\frac{1}{2}\right)^3 = \frac{7}{8}$.
+- **Outcomes are not always equally likely.** Two dice: the sum $7$ has probability $\frac{6}{36}$, the sum $12$ only $\frac{1}{36}$. Two coins: one head and one tail has probability $\frac{1}{2}$ (HT and TH), not $\frac{1}{3}$. Count the ordered outcomes.
+- **Expected value** weights each outcome by its probability. It is **not** the simple average of the possible values.
+- **Independent versus mutually exclusive**: they are different ideas (see Probability above); two events with non-zero probabilities cannot be both.
+
+### Statistics & Data Interpretation Traps
+
+- **Percentile is not a percent.** The $90$th percentile means about $90\%$ of the data are at or below that value; it does not mean a score of $90\%$.
+- **Compare across distributions with $z$-scores.** A score of $80$ (mean $70$, SD $5$, so $z = 2$) is better than $75$ (mean $60$, SD $10$, so $z = 1.5$), even though the raw scores look close.
+- **Normal-curve slices**: about $34\%$ lie between the mean and $1$ SD above it (half of $68\%$), and about $13.5\%$ between $1$ and $2$ SD above it. $P(X = c) = 0$ for a continuous variable.
+- **Range is not standard deviation.** Two sets can share the same range but have different SDs, because the range depends only on the two extreme values. Set $0, 10, 10, 10, 10, 10, 20$ has a smaller SD than $0, 5, 10, 15, 20$, even though both have range $20$.
+- **Read graphs carefully**:
+    - Check the **units** (thousands? millions? percent?) and the **scale**. A vertical axis that does not start at $0$ exaggerates differences.
+    - **Stacked bars**: a middle segment's size is the **difference** of its edges, not the value at the top.
+    - **Largest change** may mean largest absolute change or largest percent change; use what the question says.
+    - **Wrong row or year**: re-read the title, legend and the exact category the question names.
+    - **Displayed percents** can add to $99\%$ or $101\%$ because of rounding.
+    - **Histograms**: bar heights equal frequencies only when the classes have equal width; also check which class an endpoint belongs to.
+    - **Trend lines** are for predicting inside the data range. Extrapolating far beyond it is unreliable, and association never proves causation.
+- **Be careful with "approximately"**: pick the closest choice; when the choices are far apart, estimate rather than compute.
+
+### Quantitative Comparison Traps (Extra)
+
+- **One test value is not a proof.** Choice (C) needs the two quantities to be equal for **every** allowed value; (A) or (B) needs the **same** quantity to win every time. Test at least two or three values, including a negative, $0$, a fraction, and a large number.
+- **Choose (D) only after you have shown two different outcomes**, not because the problem looks hard.
+- **A symbol that appears in both quantities stands for the same value in both.** Information given above or between the two quantities applies to both.
+- **Comparing fractions**: use a common denominator, or cross-multiply **only when both denominators are positive**.
+- **Close quantities**: do not round carelessly. $3.14$ and $\frac{22}{7}$ differ in the third decimal place, so keep $\pi$ exact when the quantities are close.
+
+### Answer-Format & Test-Strategy Traps
+
+- **"Select one or more" questions**: you generally earn credit only by selecting **every** correct choice and **no** incorrect one. If the question says "select two", select exactly two.
+- **Numeric entry**: follow the format and rounding instructions in the question; round only at the end. The on-screen calculator has a Transfer Display button for copying a result into the answer box.
+- **Wrong-answer choices are built from typical mistakes**: the unfinished intermediate value, the sign-flipped value, the reciprocal, and the value from using $r$ instead of $d$. If your answer is a "too easy" match, re-check the last line of the question.
+- **Sanity-check every answer**: sign, rough size, units, and whether it should be an integer.
+- **Calculator**: use it for arithmetic, not for setting up the problem. Do **not** round intermediate results, use parentheses for negatives and fractions, and check the result against a quick estimate.
+- **Do not leave questions blank**: there is no penalty for wrong answers.
+- **Pacing**: spend roughly $1.5$ to $2$ minutes per question on average. Mark a question that is taking too long, move on, and return if time allows (you can go back within a section).
+
+
+---
 # Quantitative Comparison & Test-Taking Tips
 
 > [!TIP] Tips
@@ -520,3 +629,7 @@ For any function $h(x)$ and positive number $c$:
 - **Added from the Math Review**: zero rules and division by zero; intervals; remainders with negatives; factors/multiples facts and composites; mixed numbers, complex fractions, decimals and rational vs. irrational; three-part ratios; percents above 100%, finding the whole, successive changes and the different-totals trap; negative bases and odd roots; common algebra mistakes; cancelling factors with domain; linear equations with no solution or all solutions; positive roots of inequalities; domain details; coordinate-plane basics (quadrants, horizontal/vertical lines, line from two points, intercepts, inverse relation); graphing inequalities; parabola symmetry and intersections; $|x|$ graph; congruent and similar triangles; quadrilateral and circle terms; frequency, histogram, circle graph, scatterplot and line-graph reading; mean vs. median and combining groups; population vs. sample SD; percentiles; standardization usage; sets vs. lists and counting with/without repeats; weighted outcomes; dependent events; random variables, expected value, uniform and continuous distributions.
 - **Labeled "beyond the review"**: divisibility rules, number of divisors, Vieta's formulas, sequences, Pythagorean triples, equilateral formulas, side-angle relation, inscribed-angle theorem, cube/space diagonal, arrangements with repeats, conditional probability notation.
 - **Verified against the review**: half-parabola labels, discriminant wording, percent base, perpendicular slopes, odd-$n$ quartile rule (answer key IQR $= 17$), and that only rectangular solids and cylinders are covered.
+
+# Change Log (v3 to v4)
+
+- Added common GRE traps.
