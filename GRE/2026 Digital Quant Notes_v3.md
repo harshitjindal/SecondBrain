@@ -50,6 +50,7 @@
 - **Primes below 30**: $2, 3, 5, 7, 11, 13, 17, 19, 23, 29$
 - **Prime factorization**: every integer $> 1$ factors uniquely into primes, e.g. $360 = 2^3 \cdot 3^2 \cdot 5$ and $800 = 2^5 \cdot 5^2$
 - **Number of positive divisors**: if $n = p^a q^b r^c \cdots$ then the count is $(a+1)(b+1)(c+1)\cdots$ (beyond the review)
+- **GCD and LCM**: GCD uses the *smaller* power of each shared prime, LCM uses the *larger* power of every prime. For positive integers: $\gcd(a,b) \cdot \operatorname{lcm}(a,b) = ab$
 - **Divisibility rules** (beyond the review):
     - $2$: last digit even
     - $3$: digit sum divisible by $3$
@@ -66,6 +67,7 @@
 
 - **Names**: HCF (highest common factor) = GCD (greatest common divisor) = GCF (greatest common factor). The GRE uses "greatest common divisor". LCM = least common multiple.
 - **Definitions**: the GCD of $c$ and $d$ is the largest positive integer that divides both. The LCM is the smallest positive integer that is a multiple of both. Example: $\gcd(30, 75) = 15$ and $\operatorname{lcm}(30, 75) = 150$.
+- **GCD and LCM**: GCD uses the *smaller* power of each shared prime, LCM uses the *larger* power of every prime. For positive integers: $\gcd(a,b) \cdot \operatorname{lcm}(a,b) = ab$
 - **Method 1: List** (fine for small numbers)
     - Divisors of $30$: $1, 2, 3, 5, 6, 10, 15, 30$. Divisors of $75$: $1, 3, 5, 15, 25, 75$. Largest common one: $15$.
     - Multiples of $30$: $30, 60, 90, 120, 150, \dots$. Multiples of $75$: $75, 150, \dots$. Smallest common one: $150$.
